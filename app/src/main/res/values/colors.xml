@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activated_item_foreground">#446F6F6F</color>
+    <color name="color_accent">@color/color_primary</color>
+    <color name="color_primary">#1FD8D8</color>
+    <color name="color_primary_dark">#1FD8D8</color>
+    <color name="dark_grey">#FF333333</color>
+    <color name="default_background_color">#424242</color>
+    <color name="default_text_color">@color/theme_dark_text_color</color>
+    <color name="divider_grey">#885C5C5C</color>
+    <color name="gradient_grey_start">#CC000000</color>
+    <color name="hint_black">#66000000</color>
+    <color name="hint_white">#99FFFFFF</color>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="Apptheme" parent="Apptheme.Base"/>
+    <style name="Apptheme.Base" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItem</item>
+        <item name="spinnerDropDownItemStyle">@style/SpinnerItem.DropDownItem</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerItem.DropDownItem</item>
+        <item name="buttonStyle">@style/MyTransparentButton</item>
+        <item name="android:buttonStyle">@style/MyTransparentButton</item>
+        <item name="android:itemBackground">@color/default_background_color</item>
+        <item name="android:textColor">@color/default_text_color</item>
+
+        <item name="subtitleTextColor">@android:color/white</item>
+    </style>
+    <style name="Splashtheme" parent="Apptheme.Base">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title." parent="@android:style/TextAppearance">
+        <item name="titleTextColor">@android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Simple Music Player</string>
+    <string name="app_launcher_name">Reprodutor de músicas</string>
+    <string name="playlist_empty">A lista de reprodução está vazia</string>
+    <string name="rename_song">Renomear música</string>
+    <string name="rename_song_error">Ocorreu um erro ao renomear</string>
+    <string name="rename_song_empty">Por favor preencha todos os campos</string>
+    <string name="enable_song_repetition">Repetir faixa atual</string>
+    <string name="disable_song_repetition">Parar de repetir a faixa atual</string>
+    <string name="song_repetition_enabled">Repetição de faixa ativada</string>
+    <string name="song_repetition_disabled">Repetição de faixa desativada</string>
+    <string name="enable_shuffle">Ativar modo aleatório</string>
+    <string name="disable_shuffle">Desativar modo aleatório</string>
+    <string name="shuffle_enabled">Modo aleatório ativado</string>
+    <string name="shuffle_disabled">Modo aleatório desativado</string>
+    <string name="enable_autoplay">Ativar reprodução automática</string>
+    <string name="disable_autoplay">Desativar reprodução automática</string>
+    <string name="autoplay_enabled">Reprodução automática ativada</string>
+    <string name="autoplay_disabled">Reprodução automática desativada</string>
+    <string name="sleep_timer">Temporizador</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Adicionar ficheiro à lista de reprodução</string>
+    <string name="add_folder_to_playlist">Adicionar pasta à lista de reprodução</string>
+    <string name="manage_playlists">Gerir listas de reprodução</string>
+    <string name="playlists">Listas de reprodução</string>
+    <string name="create_playlist">Criar lista de reprodução</string>
+    <string name="rename_playlist">Renomear lista de reprodução</string>
+    <string name="playlist_name_exists">Já existe uma lista de reprodução com este nome</string>
+    <string name="remove_playlist">Remover lista de reprodução</string>
+    <string name="remove_playlist_description">Esta ação remove as listas de reprodução selecionadas mas não apaga os ficheiros.</string>
+    <string name="remove_playlist_description_placeholder">Esta ação remove a lista de reprodução \"%s\" mas não apaga os ficheiros.</string>
+    <string name="remove_from_playlist">Remover da lista de reprodução</string>
+    <string name="remove_from_playlist_description">Esta ação remove os elementos da lista de reprodução \"%s\" mas não apaga os ficheiros.</string>
+    <string name="delete_the_files_too">Apagar também os ficheiros</string>
+    <string name="open_playlist">Abrir lista de reprodução</string>
+    <string name="all_songs_cannot_be_deleted">Não é possível apagar a lista de reprodução \'Todas as faixas\'.</string>
+    <string name="empty_playlist">A lista de reprodução está vazia</string>
+    <string name="fetching_songs">A obter músicas…</string>
+    <string name="all_songs">Todas as faixas</string>
+    <string name="create_playlist_from_folder">Criar nova lista de reprodução a partir da pasta</string>
+    <string name="folder_contains_no_audio">A pasta selecionada não contém ficheiros de áudio</string>
+    <string name="delete_current_song">Apagar faixa atual</string>
+    <string name="remove_current_song">Remover faixa atual da lista de reprodução</string>
+    <string name="show_filename">Mostrar nome do ficheiro como título da faixa</string>
+    <string name="title_is_not_available">Se não existir título</string>
+    <string name="show_album_cover">Mostrar imagem do álbum no ecrã principal</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Equalizador</string>
+    <string name="swap_prev_next">Trocar de faixa com os botões do auricular</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Como posso avançar/recuar rapidamente uma faixa?</string>
+    <string name="faq_1_text">Pode tocar nos textos de duração máxima/atual junto à barra de progresso para avançar ou recuar a posição na faixa.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Music Player - A cool player for your songs</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A clean music player with a customizable widget, stylish interface and no ads.</string>
+    <string name="app_long_description">
+        A simple music player easily controllable from the status bar, home screen widget or by hardware buttons on your headset. It provides all expected functions like sorting in various ways as well as changing the Equalizer.  Listen to your favorite mp3, other songs or podcasts with this free beautiful music player.
+
+        It offers exclusive extras like Search and showing Album Art, a sleep timer and many other settings. This elegant music player allows you creating and managing handy playlists as you desire.
+
+        Playlists are fully supported. You can add either individual files, or whole folders. If you won\'t like a file, you can either just remove it from a playlist, or delete the actual file altogether.
+
+        Comes with a handy sleep timer so that you can reliably delay the time of the app shutting down.
+
+        Supports both shuffle and repeating a particular song, as well as skipping and fast forwarding.
+
+        Available in many different languages, offers multiple different equalizers.
+
+        Easily check a file properties like the size, duration, last modified etc.
+
+        Modify file EXIF data like the song title and artist.
+
+        Quickly share files with your friends on social networks, emails, or anywhere you would like.
+
+        This stylish music player contains a widget with customizable text color, alpha and the color of the background for easy access and control.
+
+        It properly handles third party intents too for playing individual audio files so it can help at setting ringtones too.
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Não contém anúncios nem permissões desnecessárias. Disponibiliza um tema escuro e é totalmente \'open source\'.
+
+        <b>Consulte o conjunto completo das aplicações Simple Tools:</b>
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Não encontrou todas as cadeias a traduzir? Existem mais algumas em:
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

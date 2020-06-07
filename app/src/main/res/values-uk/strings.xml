@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Простий Музичний Програвач</string>
+    <string name="app_launcher_name">Музичний Програвач</string>
+    <string name="playlist_empty">Ваш список відтворення порожній</string>
+    <string name="rename_song">Перейменувати пісню</string>
+    <string name="rename_song_error">Трапилася помилка під час перейменування</string>
+    <string name="rename_song_empty">Будь ласка, заповніть всі поля</string>
+    <string name="enable_song_repetition">Повторити поточну пісню</string>
+    <string name="disable_song_repetition">Зупинити повторення поточної пісні</string>
+    <string name="song_repetition_enabled">Активовано повторення поточної пісні</string>
+    <string name="song_repetition_disabled">Припинено повторення поточної пісні</string>
+    <string name="enable_shuffle">Відтворювати пісні довільно</string>
+    <string name="disable_shuffle">Відтворювати за списком</string>
+    <string name="shuffle_enabled">Активовано довільне відтворення</string>
+    <string name="shuffle_disabled">Припинено довільне відтворення</string>
+    <string name="enable_autoplay">Відтворювати автоматично</string>
+    <string name="disable_autoplay">Припинити автоматичне відтворення</string>
+    <string name="autoplay_enabled">Активовано автоматичне відтворення</string>
+    <string name="autoplay_disabled">Припинено автоматичне відтворення</string>
+    <string name="sleep_timer">Sleep timer</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">Додати файл до списку відтворення</string>
+    <string name="add_folder_to_playlist">Додати теку до списку відтворення</string>
+    <string name="manage_playlists">Керувати списками відтворення</string>
+    <string name="playlists">Списки відтворення</string>
+    <string name="create_playlist">Створити список відтворення</string>
+    <string name="rename_playlist">Перейменувати список відтворення</string>
+    <string name="playlist_name_exists">Список відтворення з таким ім\'ям вже існує</string>
+    <string name="remove_playlist">Вилучити список відтворення</string>
+    <string name="remove_playlist_description">Буде вилучено лише обрані списки відтворення, а не файли.</string>
+    <string name="remove_playlist_description_placeholder">Буде вилучено лише список відтворення \"%s\", а не файли.</string>
+    <string name="remove_from_playlist">Вилучити зі списку відтворення</string>
+    <string name="remove_from_playlist_description">Буде вилучено лише композиції зі списку відтворення \"%s\", файли не буде видалено.</string>
+    <string name="delete_the_files_too">Видалити файли також</string>
+    <string name="open_playlist">Відкрити список відтворення</string>
+    <string name="all_songs_cannot_be_deleted">Не можна видалити список \'Всі композиції\'</string>
+    <string name="empty_playlist">Поточний список відтворення є порожнім</string>
+    <string name="fetching_songs">Триває завантаження композицій…</string>
+    <string name="all_songs">Всі композиції</string>
+    <string name="create_playlist_from_folder">Створити новий список відтворення з теки</string>
+    <string name="folder_contains_no_audio">Обрана тека не містить аудіофайлів</string>
+    <string name="delete_current_song">Видалити поточну композицію</string>
+    <string name="remove_current_song">Видалити поточну композицію зі списку відтворення</string>
+    <string name="show_filename">Показувати ім\'я файлу як назву композиції</string>
+    <string name="title_is_not_available">Якщо назва недоступна</string>
+    <string name="show_album_cover">Показувати обгортку альбома на головному екрані</string>
+
+    <!-- Settings -->
+    <string name="equalizer">Еквалайзер</string>
+    <string name="swap_prev_next">Змінити призначення кнопок навушників Попередній/Наступний</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Як я можу змінити момент відтворення композиції?</string>
+    <string name="faq_1_text">Ви можете натиснути на текст поточної або загальної тривалості відтворення поруч із ковзним елементом, що відображає відтворення, це перемістить програвання композиції або вперед, або назад.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Music Player - A cool player for your songs</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A clean music player with a customizable widget, stylish interface and no ads.</string>
+    <string name="app_long_description">
+        A simple music player easily controllable from the status bar, home screen widget or by hardware buttons on your headset. It provides all expected functions like sorting in various ways as well as changing the Equalizer.  Listen to your favorite mp3, other songs or podcasts with this free beautiful music player.
+
+        It offers exclusive extras like Search and showing Album Art, a sleep timer and many other settings. This elegant music player allows you creating and managing handy playlists as you desire.
+
+        Playlists are fully supported. You can add either individual files, or whole folders. If you won\'t like a file, you can either just remove it from a playlist, or delete the actual file altogether.
+
+        Comes with a handy sleep timer so that you can reliably delay the time of the app shutting down.
+
+        Supports both shuffle and repeating a particular song, as well as skipping and fast forwarding.
+
+        Available in many different languages, offers multiple different equalizers.
+
+        Easily check a file properties like the size, duration, last modified etc.
+
+        Modify file EXIF data like the song title and artist.
+
+        Quickly share files with your friends on social networks, emails, or anywhere you would like.
+
+        This stylish music player contains a widget with customizable text color, alpha and the color of the background for easy access and control.
+
+        It properly handles third party intents too for playing individual audio files so it can help at setting ringtones too.
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Цей додаток не буде показувати рекламу, потрібні лише найнеобхідніші дозволи. Додаток має повністю відкритий програмний код, кольори оформлення можна легко налаштувати.
+
+        <b>Check out the full suite of Simple Tools here:</b>
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

@@ -1,0 +1,103 @@
+﻿<resources>
+    <string name="app_name">シンプル ミュージック プレイヤー</string>
+    <string name="app_launcher_name">ミュージック プレイヤー</string>
+    <string name="playlist_empty">プレイリストは空です</string>
+    <string name="rename_song">曲の名前を変更</string>
+    <string name="rename_song_error">名前を変更中にエラーが発生しました</string>
+    <string name="rename_song_empty">すべてのフィールドを入力してください</string>
+    <string name="enable_song_repetition">現在の曲を繰り返し</string>
+    <string name="disable_song_repetition">現在の曲の繰り返しを停止</string>
+    <string name="song_repetition_enabled">Current song repetition enabled</string>
+    <string name="song_repetition_disabled">Current song repetition disabled</string>
+    <string name="enable_shuffle">Enable shuffle</string>
+    <string name="disable_shuffle">Disable shuffle</string>
+    <string name="shuffle_enabled">Shuffle enabled</string>
+    <string name="shuffle_disabled">Shuffle disabled</string>
+    <string name="enable_autoplay">Enable autoplay</string>
+    <string name="disable_autoplay">Disable autoplay</string>
+    <string name="autoplay_enabled">Autoplay enabled</string>
+    <string name="autoplay_disabled">Autoplay disabled</string>
+    <string name="sleep_timer">Sleep timer</string>
+
+    <!-- Playlists -->
+    <string name="add_file_to_playlist">プレイリストにファイルを追加</string>
+    <string name="add_folder_to_playlist">プレイリストにフォルダを追加</string>
+    <string name="manage_playlists">プレイリストを管理</string>
+    <string name="playlists">プレイリスト</string>
+    <string name="create_playlist">プレイリストを作成</string>
+    <string name="rename_playlist">プレイリストの名前を変更</string>
+    <string name="playlist_name_exists">その名前のプレイリストは既に存在します</string>
+    <string name="remove_playlist">プレイリストを削除</string>
+    <string name="remove_playlist_description">この操作により、実際のファイルではなくプレイリストのみ削除されます。</string>
+    <string name="remove_playlist_description_placeholder">この操作により、実際のファイルではなくプレイリスト \"%s\" のみ削除されます。</string>
+    <string name="remove_from_playlist">プレイリストから削除</string>
+    <string name="remove_from_playlist_description">この操作は、プレイリスト \"%s\" からアイテムを削除するだけで、実際のファイルは削除されません。</string>
+    <string name="delete_the_files_too">実際のファイルも削除する</string>
+    <string name="open_playlist">プレイリストを開く</string>
+    <string name="all_songs_cannot_be_deleted">プレイリスト \'すべての曲\' は削除できません</string>
+    <string name="empty_playlist">プレイリストは空です</string>
+    <string name="fetching_songs">曲を取得中…</string>
+    <string name="all_songs">すべての曲</string>
+    <string name="create_playlist_from_folder">フォルダから新しいプレイリストを作成する</string>
+    <string name="folder_contains_no_audio">選択したフォルダにはオーディオファイルが含まれていません</string>
+    <string name="delete_current_song">現在の曲を削除</string>
+    <string name="remove_current_song">プレイリストから現在の曲を削除</string>
+    <string name="show_filename">ファイル名を曲名として表示</string>
+    <string name="title_is_not_available">曲名が使用できない場合</string>
+    <string name="show_album_cover">メイン画面にアルバムカバーを表示する</string>
+
+    <!-- Settings -->
+    <string name="equalizer">イコライザー</string>
+    <string name="swap_prev_next">ヘッドフォンの "前へ/次へ" ボタンを入れ替える</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">曲を早送りするにはどうすればよいですか？</string>
+    <string name="faq_1_text">シークバーの近くにある[再生中]または[再生時間]をタップすると、曲の巻戻しまたは早送りをすることができます。</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Music Player - A cool player for your songs</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A clean music player with a customizable widget, stylish interface and no ads.</string>
+    <string name="app_long_description">
+        A simple music player easily controllable from the status bar, home screen widget or by hardware buttons on your headset. It provides all expected functions like sorting in various ways as well as changing the Equalizer.  Listen to your favorite mp3, other songs or podcasts with this free beautiful music player.
+
+        It offers exclusive extras like Search and showing Album Art, a sleep timer and many other settings. This elegant music player allows you creating and managing handy playlists as you desire.
+
+        Playlists are fully supported. You can add either individual files, or whole folders. If you won\'t like a file, you can either just remove it from a playlist, or delete the actual file altogether.
+
+        Comes with a handy sleep timer so that you can reliably delay the time of the app shutting down.
+
+        Supports both shuffle and repeating a particular song, as well as skipping and fast forwarding.
+
+        Available in many different languages, offers multiple different equalizers.
+
+        Easily check a file properties like the size, duration, last modified etc.
+
+        Modify file EXIF data like the song title and artist.
+
+        Quickly share files with your friends on social networks, emails, or anywhere you would like.
+
+        This stylish music player contains a widget with customizable text color, alpha and the color of the background for easy access and control.
+
+        It properly handles third party intents too for playing individual audio files so it can help at setting ringtones too.
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        広告や不要なアクセス権限は含まれていません。 完全にオープンソースで、ダークテーマも提供しています。
+
+        <b>Check out the full suite of Simple Tools here:</b>
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
